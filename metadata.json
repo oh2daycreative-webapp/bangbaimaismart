@@ -1,0 +1,6 @@
+{
+  "name": "Bang Bai Mai Community",
+  "description": "Web application for the Bang Bai Mai community in Surat Thani, featuring local information, tourism, products, and services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
