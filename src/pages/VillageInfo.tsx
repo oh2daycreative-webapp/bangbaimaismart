@@ -7,7 +7,7 @@ export default function VillageInfo() {
       <div className="relative h-64 md:h-80 rounded-2xl overflow-hidden shadow-lg group">
         <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent z-10"></div>
         <img 
-          src="/assets/.aistudio/images/hero01.jpg" alt="Hero Image">?auto=format&fit=crop&q=80&w=2000" 
+          src="/assets/.aistudio/images/hero01.jpg?auto=format&fit=crop&q=80&w=2000" 
           alt="Bang Bai Mai Village" 
           className="absolute inset-0 w-full h-full object-cover z-0"
         />
